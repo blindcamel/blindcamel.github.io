@@ -7,9 +7,9 @@
  * This setting must be set to false in production.
  * All config options: https://getkirby.com/docs/reference/system/options
  */
-return [
-    'debug' => true,
-];
+
+ return [
     'panel' =>[
       'install' => true
     ]
+  ];
